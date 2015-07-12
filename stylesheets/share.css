@@ -1,0 +1,35 @@
+/* line 88, share/*.png */
+.share-sprite, .share-arrow1, .share-arrow2, .share-arrow3, .share-arrow4, .share-arrow5, .share-arrow6 {
+  background-image: url('/images/share-sb24e8ccc59.png');
+  background-repeat: no-repeat;
+}
+
+/* line 84, ../../../Ruby22-x64/lib/ruby/gems/2.2.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.share-arrow1 {
+  background-position: 0 0;
+}
+
+/* line 84, ../../../Ruby22-x64/lib/ruby/gems/2.2.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.share-arrow2 {
+  background-position: 0 -25px;
+}
+
+/* line 84, ../../../Ruby22-x64/lib/ruby/gems/2.2.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.share-arrow3 {
+  background-position: 0 -50px;
+}
+
+/* line 84, ../../../Ruby22-x64/lib/ruby/gems/2.2.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.share-arrow4 {
+  background-position: 0 -82px;
+}
+
+/* line 84, ../../../Ruby22-x64/lib/ruby/gems/2.2.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.share-arrow5 {
+  background-position: 0 -114px;
+}
+
+/* line 84, ../../../Ruby22-x64/lib/ruby/gems/2.2.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.share-arrow6 {
+  background-position: 0 -138px;
+}
